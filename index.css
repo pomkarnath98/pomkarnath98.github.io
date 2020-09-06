@@ -180,7 +180,7 @@ button:hover{
   background: black;
   cursor: pointer;
 }
-#project-box a{
+.project-box a{
   text-decoration: none;
 }
 
