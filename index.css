@@ -177,9 +177,15 @@ h4 {
   padding: 10px;
 }
 
+.tech-used {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
 .tech-used img {
   width: 30px;
-  padding: 20px 20px;
+  padding: 10px 0px;
 }
 
 button {
